@@ -32,3 +32,6 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 :zap: In my free time, I solve problems on codewars and read tech articles.
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D0%BA%D1%83%D1%88%D0%BD%D0%B5%D1%80-ab272124a/)
+
+
+<script>alerst('Привет!')</script>
