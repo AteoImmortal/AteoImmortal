@@ -16,17 +16,7 @@
 <div id='header' align='center'>
   <img src='https://media.giphy.com/media/iIwfsZyRtwcO2cBgN2/giphy.gif' width='100'/>
   <div id="badges"'>
-    <a href="https://www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D0%BA%D1%83%D1%88%D0%BD%D0%B5%D1%80-ab272124a/" style='padding: 16px 23px,
-        font-family: 'Montserrat',
-        letter-spacing: 2px,
-        font-size: 12px,
-        text-transform: uppercase,
-        cursor: pointer,
-        outline: none,
-        border-radius: 35px,
-        border: 3px solid #FFC80A,
-        background: transparent,
-        color: #212121'>
+    <a href="https://www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D0%BA%D1%83%D1%88%D0%BD%D0%B5%D1%80-ab272124a/" style='tex-decoration: none'>
       LinkedIn
     </a>
     <a href="https://www.instagram.com/ateo_immortal/">
