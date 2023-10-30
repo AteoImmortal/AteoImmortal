@@ -18,7 +18,7 @@
   </div>
 
 ### :woman_technologist: About Me :
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus. -->
+I am a blogger and also a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus. -->
 
 :telescope: I work as a front-end developer and participate in the development of web applications.
 
