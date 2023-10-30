@@ -16,8 +16,7 @@
 <div id='header' align='center'>
   <img src='https://media.giphy.com/media/iIwfsZyRtwcO2cBgN2/giphy.gif' width='100'/>
   <div id="badges"'>
-    <a href="https://www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D0%BA%D1%83%D1%88%D0%BD%D0%B5%D1%80-ab272124a/">
-      <img src="https://img.shields.io/badge/LinkedIn" style='padding: 16px 23px;
+    <a href="https://www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D0%BA%D1%83%D1%88%D0%BD%D0%B5%D1%80-ab272124a/" style='padding: 16px 23px,
         font-family: 'Montserrat',
         letter-spacing: 2px,
         font-size: 12px,
@@ -27,12 +26,13 @@
         border-radius: 35px,
         border: 3px solid #FFC80A,
         background: transparent,
-        color: #212121;' alt="LinkedIn Badge"/>
+        color: #212121'>
+      LinkedIn
     </a>
     <a href="https://www.instagram.com/ateo_immortal/">
-      <img src="https://img.shields.io/badge/Instagram" alt="Instagram Badge"/>
+      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a class='link__soc' href="https://t.me/+375445819214">
+    <a href="https://t.me/+375445819214">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
