@@ -1,6 +1,6 @@
 <div id='header' align='center'>
   <img src='[https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhhbTdtOTVybjVsZXR0Nzhlcno1M29sdW5vMXJjazc5bHpkOTcycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif)' width='100'/>
-<!--   <div id="badges"'>
+<div id="badges"'>
     <a href="https://www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D0%BA%D1%83%D1%88%D0%BD%D0%B5%D1%80-ab272124a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
